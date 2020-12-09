@@ -5,7 +5,7 @@
 
 
 ## Important reminder 
-    Please, consider exporting your save regularly, just for extra safety.
+    Please, consider exporting your save regularly for additional safety.
 
 &nbsp;
 
@@ -39,109 +39,118 @@
 
 # New upgrades:
 ## **Bally**:
-* ## Coins: 
-  1. ## Armor - 
+* ## Coin upgrades: 
+  1. ## Shield - 
   2. ## ? Gunshot damage protection % -
   3. ## ? Lasergun damage protection % -
   4. ## ? Spikes damage protection % -
 
-* ## RP:
-  1. ## RP drop chance - 
-  2. ## RP drop value - 
+* ## RP upgrades:
+  1. ## RP drop chance +
+  2. ## RP drop value +
   3. ## Click damage % - 
   4. ## Click damage cooldown - 
 
 ## **Rockster**:
-* ## Coins:  
-  1. ## Instant spawn chance -
-  2. ## Armor -
+* ## Coin upgrades:  
+  1. ## Instant spawn chance +
+  2. ## Shield -
   3. ## Health regen - 
 
   4. ## ? Gunshot damage protection % -
   5. ## ? Lasergun damage protection % -
   6. ## ? Spikes damage protection % -
 
-* ## RP: 
+* ## RP upgrades: 
   1. ## Start count - 
   2. ## RP drop chance - 
   3. ## RP drop value -
     
 ## **Gunshot**:
-* ## Coins:
+* ## Coin upgrades:
   1. ## Crit damage chance -
   2. ## Crit multiplier -
   3. ## Double shot change - 
   4. ## Bullet chance to go through -
-  5. ## Armor damage % (start on 1-10%?)
+  5. ## Shield damage % (start on 1-10%?)
 
 ## **Spikes**:
-* ## Coins:
+* ## Coin upgrades:
   1. ## Percentale damage - 
   2. ## Monster slowdown chance - 
   3. ## Monster slowdown value - 
   4. ## Monster slowdown time - 
 
 ## **Lasgun**:
-* ## Coins:                 
+* ## Coin upgrades:                 
   1. ## Crit damage chance -
   2. ## Crit multiplier -
   3. ## Double shot chance - 
 
 &nbsp;
 
-# Changed upgrades:
+# Changes:
 
 ## **Bally**: 
-* ## Coins:
-  1. ## Instant spawn chance - 
-      | Name        | Before | After |
-      | ----------- | :----- | :---- |
-      | Price:      | 25     | 1     |
-      | Price step: | 2      | 1     |
-      | Value:      | 2      | 1     |
-      | Value step: | 5      | 1     |
+* ## Coin upgrades:
+  1. ## Instant spawn chance- 
+      | Name               | Before | After |
+      | ------------------ | :----- | :---- |
+      | Price:             | 25     | 100   |
+      | Price step:        | 2      | 2.5   |
+      | Chance:            | 2      | 2     |
+      | Chance step:       | 5      | 5     |
+      | [NEW] Reward:      | -      | 1     |
+      | [NEW] Reward step: | -      | 1     |
 &nbsp;
 
-## **Rockster**:
-* ## RP:
+* ## RP upgrades:
   1. ## Reward -
       | Name        | Before | After |
       | ----------- | :----- | :---- |
-      | Price:      | 25     | 1     |
-      | Price step: | 2      | 1     |
-      | Value:      | 2      | 1     |
-      | Value step: | 5      | 1     |
+      | Price:      | 0.1    | 0.2   |
+      | Price step: | 2.5    | 2.7   |
+&nbsp;
+
+## **Rockster**:
+* ## Stats
+  | Name        | Before | After   |
+  | ----------- | :----- | :------ |
+  | Spawn time: | 10 sec | 7.5 sec |
+&nbsp;
+
+* ## RP upgrades:
+  1. ## Reward -
+      | Name   | Before | After |
+      | ------ | :----- | :---- |
+      | Value: | 25%    | 100%  |
+
 &nbsp;
 
 ## **Lasgun**: 
-* ## Coins:
+* ## Coin upgrades:
   1. ## Damage:
       | Name        | Before | After |
       | ----------- | :----- | :---- |
-      | Price:      | 0.5    | 1     |
-      | Price step: | 3      | 1     |
-      | Value:      | 0.05   | 1     |
-      | Value step: | 0.05   | 1     |
-
+      | Price:      | 0.5    | X     |
+      | Price step: | 3      | X     |
+      | Value:      | 0.05   | X     |
+      | Value step: | 0.05   | X     |
 &nbsp;
 		
 ## **Rebirth**:
 1. ## RP per level:
     | Name        | Before | After |
     | ----------- | :----- | :---- |
-    | Price:      | 0.5    | 1     |
-    | Price step: | 3      | 1     |
-    | Value:      | 0.05   | 1     |
-    | Value step: | 0.05   | 1     |
-
+    | Price step: | 3      | 2.5   |
 &nbsp;
 
-2. ## Rebirth award MP:
+1. ## Rebirth award MP:
     | Name        | Before | After |
     | ----------- | :----- | :---- |
-    | Price:      | 20     | 1     |
-    | Price step: | 2.5    | 1     |
+    | Price:      | 20     | 50    |
+    | Price step: | 2.5    | 2.5   |
     | Value:      | 1.25   | 1     |
-    | Value step: | 1.25   | 1     |
+    | Value step: | 1.25   | 2     |
 
-&nbsp;
+&nbsp;  
