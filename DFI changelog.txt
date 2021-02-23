@@ -1,0 +1,33 @@
+DualForce Idle
+Version 0.4.5 released!
+
+Changes: 
+- Offline earnings finally added!
+- Ability do disable specific monsters
+- Overall and specifically rebirth optimizations!
+- You can now toggle custom cursor
+- More compact Unlocks menu
+- Cursor visual bug fixed
+- Notifications button visual bug fixed
+- Music not muted bug fixed
+
+
+Version 4.6
+Spikes HP based damge:
+ - Max level 50 -> 25
+ - Price MP: x1.9 -> x2.2
+ 
+Now you can close nofications with keyboard
+ - Space/Enter to confirm and do action (e.g. show specific menu)
+ - ESC to close and do nothing
+ 
+New settings:
+ - Toggle monster drop information
+ - Toggle game rendering 
+ - Mouse over to damage
+ 
+ Вообще, профессиональный пользователь компьютеров, будь то програм-
+мист или системный администратор, может себе позволить что-то не знать,
+но ни в коем случае не может позволить себе не понимать, как устроена вы-
+числительная система на всех её уровнях, от электронных логических схем до
+громоздких прикладных программ. Не понимая чего-то, мы оставляем в своём тылу место для ощущения магии: на каком-то глубоком, почти подсознатель-ном уровне нам продолжает казаться, что что-то там не чисто и без парочки чародеев с волшебными палочками не обошлось"
